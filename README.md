@@ -8,7 +8,7 @@
 I'm an AI Researcher & Engineer focused on **multilingual large language models.** 🤖<br>
 At Translated, I helped build from scratch [Lara](https://laratranslate.com/translate), a machine translation LLM that powers content in real-time for Airbnb, Uber, Shopify, and others, reaching over **200 million users**. I've scaled training to **1,000+ GPUs** and expanded MT coverage to **201 languages**. My work has consistently aimed at one thing: **making LLMs speak your language.** 🔊🌐
 
-Working nights and weekends, I **co-founded an AI startup** building an **image geolocalization system** as part of a three-person founding team. That experience taught me how everything can be **uncertain, fast, and change in a blink**. We were figuring things out as we went, but **growing quickly** and feeling the **energy of real user feedback.**
+Working nights and weekends, I **co-founded an AI startup** building an **image geolocalization system** as part of a three-person founding team. That experience taught me how everything can be **uncertain, fast, and change in a blink**. We were figuring things out as we went, but **growing quickly**.
 It also brought a few bitter lessons about people...
 
 I'm a **voracious learner**. I constantly push to improve how I **think, train, and build**. I can't imagine a life without some form of training, whether it's **GPUs 🖥️, gym plates 🏋️, or marathon prep 🏃.**
