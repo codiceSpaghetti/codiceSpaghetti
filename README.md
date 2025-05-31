@@ -38,17 +38,13 @@ I always planned to switch to my real name once my code felt _“good enough,”
 
 ## 📞  Reach Out
 
-<a href="https://linkedin.com/in/serra-alessio" target="_blank">
-  <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="margin-right: 10px;" />
-</a>
-&nbsp;
-<a href="https://x.com/as3erra" target="_blank">
-  <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="X" style="margin-right: 10px;" />
-</a>
-&nbsp;
-<a href="mailto:alessio.ser29@gmail.com">
-  <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" alt="Gmail" />
-</a>
+<p align="left">
+<a href="https://linkedin.com/in/serra-alessio" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="32" width="32" /></a>
+&nbsp;&nbsp;
+<a href="https://x.com/as3erra" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="X" height="32" width="32" /></a>
+&nbsp;&nbsp;
+<a href="mailto:alessio.ser29@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" alt="Gmail" height="32" width="32" /></a>
+</p>
 <br><br>
 
 ![](https://komarev.com/ghpvc/?username=codiceSpaghetti&abbreviated=true)
