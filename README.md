@@ -6,7 +6,7 @@
 # 👨🏻‍💻 About me in O(1)
 
 I'm an AI researcher & engineer focused on **multilingual large language models.** 🤖<br>
-At Translated, I helped build [Lara](https://laratranslate.com/translate) from day one. It is a machine translation LLM that powers content in real-time for Airbnb, Uber, Shopify, and others, reaching over **200 million users**. I've scaled training to **1,000+ GPUs** and expanded machine translation coverage to **201 languages**. My work has consistently aimed at one thing: **making LLMs speak your language.** 🔊🌐
+At Translated, I helped build [Lara](https://laratranslate.com/translate) from day one, a machine translation LLM that powers content in real-time for Airbnb, Uber, Shopify, and others, reaching over **200 million users**. I've scaled training to **1,000+ GPUs** and expanded machine translation coverage to **201 languages**. My work has consistently aimed at one thing: **making LLMs speak your language.** 🔊🌐
 
 Working nights and weekends, I **co-founded an AI startup** building an **image geolocalization system** as part of a three-person founding team. That experience taught me how everything can be **uncertain, fast, and change in a blink**. We were figuring things out as we went, and **growing quickly**.
 It also brought a few bitter lessons about people...
