@@ -3,17 +3,28 @@
 # 👋 Hi there, I'm Alessio 🇮🇹
 </div>
 
-# 👨‍💻 About me in O(1)
+# 👨🏻‍💻 About me in O(1)
 
-I'm an AI Researcher & Engineer focused on **multilingual large language models.** 🤖<br>
-At Translated, I helped build from scratch [Lara](https://laratranslate.com/translate), a machine translation LLM that powers content in real-time for Airbnb, Uber, Shopify, and others, reaching over **200 million users**. I've scaled training to **1,000+ GPUs** and expanded MT coverage to **201 languages**. My work has consistently aimed at one thing: **making LLMs speak your language.** 🔊🌐
+I'm an AI researcher & engineer focused on **multilingual large language models.** 🤖<br>
+At Translated, I helped build [Lara](https://laratranslate.com/translate) from day one, a machine translation LLM that powers content in real-time for Airbnb, Uber, Shopify, and others, reaching over **200 million users**. I've scaled training to **1,000+ GPUs** and expanded machine translation coverage to **201 languages**. My work has consistently aimed at one thing: **making LLMs speak your language.** 🔊🌐
 
-Working nights and weekends, I **co-founded an AI startup** building an **image geolocalization system** as part of a three-person founding team. That experience taught me how everything can be **uncertain, fast, and change in a blink**. We were figuring things out as we went, but **growing quickly**.
+Working nights and weekends, I **co-founded an AI startup** building an **image geolocalization system** as part of a three-person founding team. That experience taught me how everything can be **uncertain, fast, and change in a blink**. We were figuring things out as we went, and **growing quickly**.
 It also brought a few bitter lessons about people...
 
 I'm a **voracious learner**. I constantly push to improve how I **think, train, and build**. I can't imagine a life without some form of training, whether it's **GPUs 🖥️, gym plates 🏋️, or marathon prep 🏃.**
 
 **Still iterating.**
+
+## 🍝 Why codiceSpaghetti?
+Back in my first year of university, a professor introduced us to [spaghetti code](https://en.wikipedia.org/wiki/Spaghetti_code). It's a notorious anti-pattern where excessive use of <code>GOTO</code> statements turns programs into a tangled mess that’s nearly impossible to follow. The name stuck with me for a few reasons:
+
+* A nod to my Italian roots 🍝
+
+* A joke about messy beginner code 👨🏻‍💻
+
+* An easy way to stay anonymous while learning 🕵️‍♂️
+
+I always planned to switch to my real name once my code felt _“good enough,”_ but nostalgia (and maybe a bit of laziness) won out. I've been **codiceSpaghetti** ever since 2017.
 
 ## 🔧 Some tools I Use
 
