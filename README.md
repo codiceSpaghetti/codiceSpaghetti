@@ -37,13 +37,14 @@ I always planned to switch to my real name once my code felt _“good enough,”
 
 
 ## 📞  Reach Out
-
 <p align="left">
-<a href="https://linkedin.com/in/serra-alessio" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="32" width="32" /></a>
+<a href="https://linkedin.com/in/serra-alessio" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="24" width="24" /></a>
 &nbsp;&nbsp;
-<a href="https://x.com/as3erra" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="X" height="32" width="32" /></a>
+<a href="https://x.com/as3erra" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="X" height="24" width="24" /></a>
 &nbsp;&nbsp;
-<a href="mailto:alessio.ser29@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" alt="Gmail" height="32" width="32" /></a>
+<a href="mailto:alessio.ser29@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" alt="Gmail" height="24" width="24" /></a>
+&nbsp;&nbsp;  
+<a href="https://alessioserra.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/🌐_Personal_Website-blue" alt="My Website" height="24" width="130" /></a>
 </p>
 <br><br>
 
