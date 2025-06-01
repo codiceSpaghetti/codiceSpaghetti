@@ -11,7 +11,7 @@ At Translated, I helped build [Lara](https://laratranslate.com/translate) from d
 I **co-founded an AI startup** building an **image geolocalization system** as part of a three-person founding team. That experience taught me how everything can be **uncertain, fast, and change in a blink**. We were figuring things out as we went, and **growing quickly**.
 It also brought a few bitter lessons about people...
 
-I'm a **voracious learner**. I constantly push to improve how I **think, train, and build**. I can't imagine a life without some form of training, whether it's **GPUs 🖥️, gym plates 🏋️, or marathon prep 🏃.**
+I'm an **eager learner**. I constantly push to improve how I **think, train, and build**. I can't imagine a life without some form of training, whether it's **GPUs 🖥️, gym plates 🏋️, or marathon prep 🏃.**
 
 **Still iterating.**
 
