@@ -48,4 +48,4 @@ I always planned to switch to my real name once my code felt _“good enough,”
 </p>
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=codiceSpaghetti&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=codiceSpaghetti)
